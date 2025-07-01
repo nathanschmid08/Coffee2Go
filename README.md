@@ -76,7 +76,7 @@ python main.py
 ```
 This will open a simple GUI window with file selection, options, and a translation panel.
 
-## ⚠️ Limitations
+## ⚠️ Limitations
 
 This tool is highly experimental and not intended for serious development use.
 
